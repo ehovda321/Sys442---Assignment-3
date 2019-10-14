@@ -1,0 +1,5 @@
+1. lsls -l
+2. dirdir g
+ls-l
+ls-l
+ls-l
